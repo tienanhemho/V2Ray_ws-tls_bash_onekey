@@ -3,7 +3,7 @@
 #====================================================
 #	System Request:Debian 9+/Ubuntu 18.04+/Centos 7+
 #	Author:	wulabing
-#	Dscription: V2ray ws+tls onekey Management
+#	Dscription: V2ray ws+tls onekey Management, sverifi bang cloudflare
 #	Version: 1.0
 #	email:admin@wulabing.com
 #	Official document: www.v2ray.com
